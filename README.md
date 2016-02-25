@@ -2,7 +2,7 @@
 + R: https://cran.r-project.org/
 + RStudio: https://www.rstudio.com/products/rstudio/download/
 
-# Додаткові матерыали для самостійного опрацювання
+# Додаткові матеріали для самостійного опрацювання
 + http://www.r-tutor.com/r-introduction (or: http://www.r-tutor.com/content/r-tutorial-ebook)
 + http://www.r-tutor.com/elementary-statistics
 + https://www.coursera.org/learn/r-programming
