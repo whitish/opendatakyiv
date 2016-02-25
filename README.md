@@ -2,10 +2,11 @@
 + R: https://cran.r-project.org/
 + RStudio: https://www.rstudio.com/products/rstudio/download/
 
-# Додаткові джерела для самостійного опрацювання
+# Додаткові матерыали для самостійного опрацювання
 + http://www.r-tutor.com/r-introduction (or: http://www.r-tutor.com/content/r-tutorial-ebook)
 + http://www.r-tutor.com/elementary-statistics
 + https://www.coursera.org/learn/r-programming
++ http://www.listendata.com/2015/09/linear-regression-with-r.html
 
 ##### Agenda
 *Тиждень 1*
