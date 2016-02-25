@@ -1,6 +1,6 @@
 # Завантаження
 + R: https://cran.r-project.org/
-+ RStidio: https://www.rstudio.com/products/rstudio/download/
++ RStudio: https://www.rstudio.com/products/rstudio/download/
 
 # Додаткові джерела для самостійного опрацювання
 + http://www.r-tutor.com/r-introduction (or: http://www.r-tutor.com/content/r-tutorial-ebook)
