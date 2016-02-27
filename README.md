@@ -7,6 +7,7 @@
 + http://www.r-tutor.com/elementary-statistics
 + https://www.coursera.org/learn/r-programming
 + http://www.listendata.com/2015/09/linear-regression-with-r.html
++ https://cran.r-project.org/web/packages/caret/vignettes/caret.pdf
 
 ##### Agenda
 *Тиждень 1*
