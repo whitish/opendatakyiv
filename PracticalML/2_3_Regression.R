@@ -115,7 +115,7 @@ summary(lm_mult)
 
 eig_train<-eigen(cor(train))
 eig_train$values
-prcomp<-prcomp(train, scale=T)
+prcomp<-prcomp(train, scale=T) # [A.B.] 'murder' must be renoved since it's not predictor
 summary(prcomp)
 var<-eig_train$values/8
 var
